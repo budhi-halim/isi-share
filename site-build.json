@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "include": [
+    "index.html",
+    "css",
+    "js",
+    "assets",
+    "data/app_list.json"
+  ]
+}
